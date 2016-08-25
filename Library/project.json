@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "Library.Config": {
+      "target": "project",
+      "version": ""
+    }
+  },
+  "frameworks": {
+    "netstandard1.5": {
+    }
+  }
+}
