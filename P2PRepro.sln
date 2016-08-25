@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetStandard", "NetStandard", "{B44E5385-0F08-4718-A849-5FD21DC0825C}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Library", "Library\Library.xproj", "{344C5F1A-B87E-4F79-856E-89FC26E6AFE0}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Library.NetStandard", "Library\Library.NetStandard.xproj", "{344C5F1A-B87E-4F79-856E-89FC26E6AFE0}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Library.Config", "Library.Config\Library.Config.xproj", "{1DDD1480-6F02-40EB-97BE-4DB34D12B525}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Library.NetStandard.Config", "Library.Config\Library.NetStandard.Config.xproj", "{1DDD1480-6F02-40EB-97BE-4DB34D12B525}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
